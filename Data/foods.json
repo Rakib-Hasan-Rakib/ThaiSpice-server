@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pad Thai",
+    "price": "10.99",
+    "rating": "4.5",
+    "image_url": "https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg"
+  },
+  {
+    "name": "Tom Yum Soup",
+    "price": "8.99",
+    "rating": "4.0",
+    "image_url": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2021/03/Tom-Yum-07-mini.jpg?fit=1000%2C667&ssl=1"
+  },
+  {
+    "name": "Green Curry",
+    "price": "12.99",
+    "rating": "4.2",
+    "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
+  },
+  {
+    "name": "Massaman Curry",
+    "price": "13.99",
+    "rating": "4.3",
+    "image_url": "https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg"
+  },
+  {
+    "name": "Som Tum (Papaya Salad)",
+    "price": "7.99",
+    "rating": "4.1",
+    "image_url": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/AB343849-D77F-4931-AD14-852B537B09E8/Derivates/ACEB01EA-0393-4FEE-87A0-F1C974B3BCD1.jpg"
+  },
+  {
+    "name": "Khao Pad (Fried Rice)",
+    "price": "9.99",
+    "rating": "4.0",
+    "image_url": "https://khinskitchen.com/wp-content/uploads/2023/02/khao-pad-08-500x375.jpg"
+  },
+  {
+    "name": "Pad Krapow Moo Saap (Basil Pork)",
+    "price": "11.99",
+    "rating": "4.4",
+    "image_url": "https://www.alldayieat.com/wp-content/uploads/2017/10/Pad-Kra-Pao-Moo-Stir-Fried-Pork-with-Thai-Holy-Basil-4.jpg"
+  },
+  {
+    "name": "Kuay Teow Tom Yum (Spicy Noodle Soup)",
+    "price": "8.99",
+    "rating": "4.2",
+    "image_url": "https://i.ytimg.com/vi/amS5AG4Z3sU/maxresdefault.jpg"
+  }
+]
